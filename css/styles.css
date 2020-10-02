@@ -1,0 +1,9 @@
+.fsection{
+    background-image: url("img/back1.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    line-height: 10;
+}
