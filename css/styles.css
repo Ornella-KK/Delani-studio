@@ -1,9 +1,14 @@
 .fsection{
     background-image: url("img/back1.jpg");
-    background-size: cover;
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
     text-align: center;
     line-height: 10;
+    background-position: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.container{
+    padding: 0%;
+    margin-left: 0%;
+    margin-right: 100%;
 }
