@@ -1,15 +1,17 @@
+html{
+    box-sizing: content-box;
+}
 .fsection{
     background-image: url("img/back1.jpg");
     text-align: center;
-    line-height: 10;
+    padding: 120px;
     background-position: auto;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
 }
-.container{
-    padding: 0%;
-    margin-right: 0%;
+footer{
+    padding-top: 100px;
 }
 .ssection{
     text-align: center;
@@ -20,4 +22,14 @@
     text-align: center;
     padding:120px;
     color: white;
+}
+div.fosection>h1.action{
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+#para1,#para2,#para3{
+    display:none;
+}
+.fosection{
+    text-align: center;
 }
