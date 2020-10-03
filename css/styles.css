@@ -9,10 +9,15 @@
 }
 .container{
     padding: 0%;
-    margin-left: 0%;
-    margin-right: 100%;
+    margin-right: 0%;
 }
 .ssection{
     text-align: center;
     padding: 50px;
+}
+.tsection{
+    background-image: url("img/back2.jpg");
+    text-align: center;
+    padding:120px;
+    color: white;
 }
