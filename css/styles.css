@@ -26,6 +26,10 @@ div.fosection>h1.action{
 }
 #para1,#para2,#para3{
     display:none;
+    font-family: fantasy;
+}
+#H1,#H3,#H4{
+    display: none;
 }
 .fosection{
     text-align: center;
