@@ -11,7 +11,7 @@ Kankazi Ornella
 * Html
 * css and Bootstrap CSS
 * Javascript(jquery)
-### live Link
+### Live Link
 https://ornella-kk.github.io/Delani-studio/
 ### Contact:
 Email:okk@gmail.com
