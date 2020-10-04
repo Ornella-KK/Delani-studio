@@ -10,3 +10,10 @@ $(document).ready(function(){
        $("#para3").toggle();
    })
 })
+//  alerting when submitting contact info
+$(document).ready(function(){
+    $(".btn").click(function(){
+        var name=$("input#name").val();
+        alert(name+ " we have received your message. Thank you for reaching to us");
+    })
+})
