@@ -87,3 +87,13 @@ input[type=text]{
    color: white;
    border:1px solid white;
 }
+.socials{
+    padding-top: 5%;
+    text-align: center;
+}
+.socials p{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 10px;
+}
