@@ -6,6 +6,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 footer{
     padding-top: 100px;
@@ -13,12 +14,14 @@ footer{
 .ssection{
     text-align: center;
     padding: 50px;
+    font-family: cursive;
 }
 .tsection{
     background-image: url("img/back2.jpg");
     text-align: center;
     padding:120px;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 div.fosection>h1.action{
     padding-top: 50px;
@@ -27,9 +30,6 @@ div.fosection>h1.action{
 #para1,#para2,#para3{
     display:none;
     font-family: fantasy;
-}
-#H1,#H3,#H4{
-    display: none;
 }
 .fosection{
     text-align: center;
