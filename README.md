@@ -3,7 +3,7 @@ This is a webpage that shows all the services offered by Delani Studio and how t
 ### Author
 Kankazi Ornella
 ### Setup Instructions:
-* Fork the repository to your github account https://ornella-kk.github.io/Delani-studio/
+* Fork the repository to your github account https://github.com/Ornella-KK/Delani-studio.git
 * Clone this repository to a location in your file system. eg.Desktop
 * Open terminal command line then navigate to the root folder of the application. cd Delani-studio
 * Open index.html on your Browser.
