@@ -29,6 +29,6 @@ $(document).ready(function(){
 $(document).ready(function(){
     $(".btn").click(function(){
         var name=$("input#name").val();
-        alert(name+ " we have received your message. Thank you for reaching to us");
+        alert(name+ ", we have received your message. Thank you for reaching to us");
     })
 })
