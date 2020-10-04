@@ -71,3 +71,19 @@ div.fosection>h1.action{
     padding-bottom: 1px;
     text-align: center;
 }
+.form{
+    background-image: url("img/back3.jpg");
+    padding:15%;
+}
+.final{
+    text-align:center;
+    color:white;
+}
+input[type=text]{
+    background: transparent;
+    color:white;
+}
+.btn{
+   color: white;
+   border:1px solid white;
+}
